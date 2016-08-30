@@ -12,6 +12,7 @@ en:
   label_n_years:
     one: "last 1 year"
     other: "last %{count} years"
+  label_tracker_all: All trackers
   label_new_chart: New chart
   label_my_charts: My charts
   label_public_charts: Public charts
@@ -27,3 +28,8 @@ en:
   permission_create_public_charts: Create public charts
   permission_edit_charts: Edit charts
   permission_edit_public_charts: Edit public charts
+  field_range_integer: :label_in_the_past_days
+  field_issue_status: :label_issue_status
+  field_time: :label_time_tracking
+  field_group_by_field: :field_group_by
+  
